@@ -1,0 +1,9 @@
+.active-header{
+    background-color: #002c3f;
+    color: #fff;
+    height: 2.5rem;
+}
+.nav-main-title{
+    margin: 0px 40px;
+    font-weight: 700;
+  }
